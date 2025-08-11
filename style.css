@@ -37,7 +37,7 @@ body {
   height: 200px;
   border-radius: 50%; /* Makes the image circular */
   object-fit: cover; /* Ensures image fits well in the circle */
-  border: 5px #FF00FF; /* Optional: gives a border to the profile image */
+  /* Optional: gives a border to the profile image */
 }
 
 .hero h1 {
